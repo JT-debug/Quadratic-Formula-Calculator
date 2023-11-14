@@ -1,15 +1,6 @@
 /**********************************************************************
-
-                            CIS121  Fall 2023
-
-Type of Assignment:        Lab 8
-
-Problem Number:1
-
 Programmer: J.T. Sundara
-
 Purpose: This program solves and displays quadratic equations
-
 **********************************************************************/
 
 #include <iostream>
